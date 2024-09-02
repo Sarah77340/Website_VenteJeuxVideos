@@ -1,0 +1,191 @@
+body{
+    background-image: url(assets/background/background_1.png);
+    background-size: auto;
+}
+
+#box{
+    width:450px;
+    margin:0 auto;
+    margin-top: 10%;
+}
+
+#formu {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #4B575A;
+    background: #4B575A;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#container h1{
+    width: 38%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #242C2E;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: #242C2E;
+    border: 1px solid #242C2E;
+}
+
+#logo{
+
+    width: 60px;
+	height: 45px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #242C2E;
+}
+
+li {
+    float: left;
+}
+
+li a {
+
+    display: block;
+    color:azure;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    height: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+li a:hover {
+    background-color: #111;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+#logo{
+    height: 25px;
+    padding: 0 45px 0 45px;
+}
+
+#left{
+
+    float:right;
+    margin-right: 15px;
+
+}
+
+section {
+    width:99%;
+    padding: 5px;
+    border: 1px solid #4B575A;
+    background: #4B575A;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#first {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    align-items: center;
+    
+}
+
+#logo-jeu{
+    width: 200px;
+    height: 120px;
+
+}
+
+#img-jeu{
+    width: 300px;
+}
+
+#div-com{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 5px 0px 5px;
+    border: 1px solid #000000;
+    background: #550000;
+}
+
+#box-com{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 5px 0px 5px;
+    border: 1px solid #000000;
+    background: #404446;
+}
+
+#box-jeu{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 5px 0px 5px;
+    border: 1px solid #000000;
+    background: #404446;
+    color: aliceblue;
+}
+
+#box-jeu table tr td{
+    padding: 10px 10px 10px 10px;
+}
+
+#box-jeu table tr td #div-prix{
+    margin: 5px 5px 5px 5px;
+    padding: 2px 2px 2px 2px;
+    background: #000000;
+    color : aliceblue;
+    font-size: 20px;
+    width: 80%;
+}
+
+#box-jeu table tr td #div-prix #bouton-achat{
+    background-color: #242C2E;
+    color: aliceblue;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+
+#titre-jeu{
+    style = "color : aliceblue
+
+}
+
+
+#boxpro{
+    width:750px;
+    margin:0 auto;
+    margin-top: 10%;
+}
+
+#box-profil{
+
+    width:100%;
+    padding: 30px;
+    border: 1px solid #4B575A;
+    background: #4B575A;
+
+}
